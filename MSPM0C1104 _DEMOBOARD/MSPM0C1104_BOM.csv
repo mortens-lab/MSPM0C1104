@@ -1,0 +1,14 @@
+Qty,Reference,Value,Footprint,Part Number,Manufacturer,Mouser
+1,U1,MSPM0C1104S8YCJR,Morten_Library:Texas_DSBGA-8_0.86x1.6mm_Layout2x4_P0.35mm,MSPM0C1104S8YCJR,Texas Instruments,See link to TI
+1,U2,TLV75533PDBV,Package_TO_SOT_SMD:SOT-23-5,TLV75533PDBV,Texas Instruments,595-TLV75533PDBVR 
+1,C1,100n,Capacitor_SMD:C_0402_1005Metric,GRM155R71H104KE14D,Murata,81-GRM155R71H104KE4D
+1,C2,10u/16V,Capacitor_SMD:C_0603_1608Metric,CL21B106KOQNNNE,Samsung,187-CL21B106KOQNNNE
+2,"C3,C4",1u,Capacitor_SMD:C_0603_1608Metric,CL10A105KO8NNNC,Samsung,187-CL10A105KO8NNNC
+1,D1,GREEN,LED_SMD:LED_0603_1608Metric,APHD1608LCGCK,Kingbright,604-APHD1608LCGCK
+1,D2,YELLOW,LED_SMD:LED_0603_1608Metric,APTD1608LSYCK,Kingbright,604-APTD1608LSYCK
+4,"H1,H2,H3,H4",MountingHole,MountingHole:MountingHole_2.7mm,DNP,DNP,DNP
+1,J1,Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,Standard 2x4 - 2.54mm pinheader,-,-
+1,J2,Screw_Terminal_01x02,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",1984617,Phoenix Contact,651-1984617
+1,J3,Conn_01x04,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,PRT-14417,Sparkfun,474-PRT-14417
+2,"R2,R5",1K,Resistor_SMD:R_0402_1005Metric,CRCW04021K00FKED,Vishay,71-CRCW0402-1.0K-E3
+2,"R3,R4",4K7,Resistor_SMD:R_0402_1005Metric,CRCW04024K70FKED,Vishay,71-CRCW0402-4.7K-E3
